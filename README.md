@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## I am new to GitHub. I'm a client experience analyst at ACDHS. Reach out if you have any questions!
+## Client experience analyst at ACDHS
 
 <!--
 **nathan-brooks-acdhs/nathan-brooks-acdhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
